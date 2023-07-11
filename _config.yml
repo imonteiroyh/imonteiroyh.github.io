@@ -1,12 +1,13 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+title: Vandemberg Monteiro
+logo: "/images/linkedin.jpg?raw=true"
+description: >
+    <br>
+    Artificial Intelligence, Machine Learning and Data Science enthusiast, always looking to learn a little more about the area.
+    <br><br>
+    Currently pursuing a bachelor's degree in Computer Engineering at Federal University of Ceará.
+    <br><br>
+    <a href="https://www.linkedin.com/in/vandemberg-monteiro/">View My LinkedIn Profile</a>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
