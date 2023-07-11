@@ -1,35 +1,10 @@
-## Portfolio
+## Selected projects in data science and machine learning
 
 ---
 
-### Category Name 1 
+### Posture recognition with classical machine learning and interpretability techniques
+Assuming a good posture is crucial to avoid musculoskeletal injuries and promote well-being and comfort for individuals. In this project, i participated using various ML techniques, including: (i) imputation of missing values with KNN, (ii) modelling with XGBoost models, (iii) Bayesian hyperparameter optimization, (iv) interpretation of results with SHAP values
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white)](#) [![](https://img.shields.io/badge/sklearn-white)](#) [![](https://img.shields.io/badge/Scikit%20Optimize-white)](#) [![](https://img.shields.io/badge/Pandas-white)](#) [![](https://img.shields.io/badge/NumPy-white)](#) [![](https://img.shields.io/badge/SHAP-white)](#)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+[View code on GitHub](https://github.com/imonteiroyh/IOT)
